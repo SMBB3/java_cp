@@ -1,5 +1,3 @@
-package JavaTask.task3;
-
 public class NonFictionBook extends Book {
     public NonFictionBook(String title, String author, int year) {
         super(title, author, year, Genre.NON_FICTION);
