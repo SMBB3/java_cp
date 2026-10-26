@@ -1,5 +1,3 @@
-package JavaTask.task3;
-
 public abstract class Book implements Readable {
     protected String title;
     protected String author;
